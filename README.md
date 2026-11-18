@@ -1,6 +1,6 @@
 # Olá, eu sou o Diego 👋
 
-🚀 **Desenvolvedor Full-Stack & Entusiasta de Infraestrutura e Segurança**
+🚀 **Desenvolvedor Full-Stack**
 📍 Jundiaí, SP - Brasil  
 🎓 Bacharelado em Ciência da Computação (Unianchieta) | Técnico em ADS (ETEC)
 
