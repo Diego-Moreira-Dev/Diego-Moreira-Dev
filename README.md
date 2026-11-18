@@ -4,7 +4,7 @@
 📍 Jundiaí, SP - Brasil  
 🎓 Bacharelado em Ciência da Computação (Unianchieta) | Técnico em ADS (ETEC)
 
-> Em busca de crescimento profissional no desenvolvimento de software, com foco em arquitetura limpa e DevSecOps.
+> Em busca de crescimento profissional no desenvolvimento de software.
 
 ---
 
