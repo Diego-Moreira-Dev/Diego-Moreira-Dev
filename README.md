@@ -10,31 +10,40 @@
 
 ### 🛠️ Stacks & Tecnologias
 
-#### **Linguagens & Web Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+#### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-#### **Backend, Bases de Dados & Cloud**
+#### **Backend & Bases de Dados**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Azure Cosmos DB](https://img.shields.io/badge/CosmosDB-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white)
 
-#### **DevOps, Sistemas & Ferramentas**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### **Testes, DevOps & Ferramentas**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
 
 ### 🌐 Conhecimentos Técnicos & Metodologias
-* **Redes de Computadores:** Protocolos TCP/IP, HTTP, DNS e análise/inspeção de pacotes.
-* **Arquitetura & Boas Práticas:** Clean Architecture, consumo e integração de APIs REST.
-* **Gestão de Incidentes & Suporte:** Diagnóstico, análise e resolução de problemas em sistemas com ServiceNow.
+* **Desenvolvimento Full-Stack:** Construção de interfaces reativas em Vue 3 / Vuetify e serviços backend orientados a REST e GraphQL.
+* **Testes & Qualidade:** Testes unitários e de integração com Vitest.
+* **Bases de Dados & ORM/Query Builders:** DML/DDL em PostgreSQL, SQL Server e manipulação com Knex.js.
+* **Arquitetura & Boas Práticas:** Clean Architecture, automação via Bash e práticas de CI/CD em cloud.
+* **Resposta a Incidentes:** troubleshooting de sistemas e acompanhamento de chamados no ServiceNow.
 
 ---
 
